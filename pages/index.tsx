@@ -41,6 +41,10 @@ const Home: NextPage = () => {
             <p>ded</p>
           </a>
 
+          <a>
+            <h2>\o/</h2>
+            <p>thank u for checkin' dis smol website out</p>
+          </a>
         
         </div>
         </main>
