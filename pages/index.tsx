@@ -40,7 +40,6 @@ const Home: NextPage = () => {
             <h2>Discord Server----></h2>
             <p>ded</p>
           </a>
-
           <a>
             <h2>\o/</h2>
             <p>thank u for checkin' dis smol website out</p>
@@ -50,7 +49,6 @@ const Home: NextPage = () => {
         </main>
 
         <footer className={styles.footer}>
-            made with the loss of my nerd points
         </footer>
       </div>
   )
