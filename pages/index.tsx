@@ -26,7 +26,6 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.header}>
-          
           <a href="https://drive.google.com/drive/folders/11XyJfKZqPPUBeUSG_SyZkasIttUGujsR?usp=sharing">
             <h2>SVP files</h2>
             <p>SVP files I probably just got by 
