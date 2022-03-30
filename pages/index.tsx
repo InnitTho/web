@@ -27,7 +27,7 @@ const Home: NextPage = () => {
 
         <div className={styles.header}>
           <a href="https://drive.google.com/drive/folders/11XyJfKZqPPUBeUSG_SyZkasIttUGujsR?usp=sharing">
-            <h2>SVP files</h2>
+            <h2>SVP files----></h2>
             <p>SVP files I probably just got by 
               editing someone&apos;s VSQX or UST</p>
           </a>
@@ -37,7 +37,7 @@ const Home: NextPage = () => {
         </p>
 
           <a href="https://discord.gg/7M54j8kBEJ">
-            <h2>Discord Server</h2>
+            <h2>Discord Server----></h2>
             <p>ded</p>
           </a>
 
