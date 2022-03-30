@@ -36,7 +36,7 @@ const Home: NextPage = () => {
           --------------------------------------------------------------------------------
         </p>
 
-          <a href="https://discord.gg/rsVMyBqP">
+          <a href="https://discord.gg/7M54j8kBEJ">
             <h2>Discord Server</h2>
             <p>ded</p>
           </a>
