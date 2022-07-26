@@ -18,11 +18,11 @@ body {
     padding-left: 10%;
 }
 a:link {
-    color: rgb(97, 134, 255);
+    color: rgb(106, 141, 255);
   }
   /* visited link */
   a:visited {
-    color: rgb(97, 134, 255);
+    color: rgb(101, 136, 252);
   }
   /* mouse over link */
   a:hover {
